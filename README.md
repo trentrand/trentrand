@@ -1,4 +1,4 @@
-![Profile header](https://p-5JFjjq.b1.n0.cdn.getcloudapp.com/items/9Zujwnl0/GitHub%20Profile%20Header%20(21).png?v=7bc7fbe980c4611d1c7f729aa4f9f099)
+![Profile header](./profile-header.png)
 
 [![Stack Overflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/2020476?style=flat-square&logo=stackoverflow&logoColor=whitem)](https://stackoverflow.com/users/2020476/trent?tab=profile) •
 [![Linkedin Badge](https://img.shields.io/badge/-trentrand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trentrand/)](https://www.linkedin.com/in/trentrand/) •
