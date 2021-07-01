@@ -11,4 +11,4 @@ I’m a ***Developer*** and ***Maker*** who is interested in automation.
 
 I was born in the United States 🇺🇸 , growing up in Arizona 🏜 and currently living in New York City 🗽.
 
-I work at [Squarespace](https://www.squarespace.com/about/company) on the CMS Design System team, building the website editing tools which empower website creators to showcase their content beautifully and effortlessly!
+I work at [Squarespace](https://www.squarespace.com/about/company) on the Styling System team. We provide users with tools to experiment with style and create websites unique to their brand.
