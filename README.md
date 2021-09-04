@@ -1,5 +1,6 @@
 ![Profile header](./profile-header.png)
 
+[![Website](https://img.shields.io/badge/website-trentrand.com-orange)](http://trentrand.com) •
 [![Stack Overflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/2020476?style=flat-square&logo=stackoverflow&logoColor=whitem)](https://stackoverflow.com/users/2020476/trent?tab=profile) •
 [![Linkedin Badge](https://img.shields.io/badge/-trentrand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trentrand/)](https://www.linkedin.com/in/trentrand/) •
 [![Gmail Badge](https://img.shields.io/badge/-contact@trentrand.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@trentrand.com)](mailto:contact@trentrand.com) •
