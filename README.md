@@ -8,8 +8,10 @@
 
 ---
 
-I’m a ***Developer*** and ***Maker*** who is interested in automation.
+I’m an engineer who is interested in **Automated Systems** and **Next-Gen Web Technologies**.
 
 I was born in the United States 🇺🇸 , growing up in Arizona 🏜 and currently living in New York City 🗽.
 
-I work at [Squarespace](https://www.squarespace.com/about/company) on the Styling System team. We provide users with tools to experiment with style and create websites unique to their brand.
+I work as a Senior Software Engineer @ [Squarespace](https://www.squarespace.com/about/company) on the Character team. We're a small team of two engineers and two designers who bring trendy and bespoke website design elements to the Squarespace website editor product. This allows our customers to build a website that has character — standing out by expressing their story in an esthetic and engaging way.
+
+See the projects pinned below to see what I've been interested in lately 👇🏻
