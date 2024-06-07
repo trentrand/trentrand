@@ -18,4 +18,4 @@ See the projects pinned below to see what I've been interested in lately ğŸ‘‡ğŸ
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/trentrand/trentrand/master/background.jpeg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.35; filter: hue-rotate(340deg); background: url('https://raw.githubusercontent.com/trentrand/trentrand/master/background.jpeg');]{x0000}$}
