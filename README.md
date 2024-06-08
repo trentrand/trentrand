@@ -15,7 +15,3 @@ I was born in the United States 🇺🇸 , growing up in Arizona 🏜 and curren
 I work as a Senior Software Engineer @ [Squarespace](https://www.squarespace.com/about/company) on the Character team. We're a small team of two engineers and two designers who bring trendy and bespoke website design elements to the Squarespace website editor product. This allows our customers to build a website that has character — standing out by expressing their story in an esthetic and engaging way.
 
 See the projects pinned below to see what I've been interested in lately 👇🏻
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.35; filter: hue-rotate(340deg); background: url('https://raw.githubusercontent.com/trentrand/trentrand/master/background.jpeg');]{x0000}$}
